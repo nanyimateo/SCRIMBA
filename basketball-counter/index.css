@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    background: #1B244A;
+    color: white;
+    font-family: Verdana;
+
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+#home-score, #guest-score {
+    background: black;
+    color: #F94F6D;
+    margin: 0px 0px 15px 0px;
+    font-family: 'Cursed Timer ULiL', sans-serif;
+    font-size: 90px;
+    text-align: center;
+    padding: 10px 0px 0px 0px;
+    border-radius: 5px;
+}
+
+button {
+    background: none;
+    color: #9AABD8;
+    border-radius: 5px;
+    width: 45px;
+    height: 45px;
+    font-size: 18px;
+    font-family: 'Cursed Timer ULiL', sans-serif;
+    border-color: #9AABD8;
+
+}
+
+
+
+
